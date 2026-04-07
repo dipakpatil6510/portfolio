@@ -50,17 +50,6 @@ const About = () => {
                 <h3 className="text-2xl font-semibold mb-6 text-white">
                   My Journey
                 </h3>
-                {/* <p className="text-gray-400 mb-6">
-                  I have been passionate about web development for several
-                  years. I love creating beautiful and functional websites that
-                  provide an excellent user experience.
-                </p>
-                <p className="text-gray-400 mb-12">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
-                  aliquam ab quas error voluptas atque mollitia, tempora
-                  asperiores quo vel earum hic repellat laudantium, dolorem
-                  possimus rem maiores blanditiis facere!
-                </p> */}
                 <p className="text-gray-400 mb-6">
                   My journey in software development began during my
                   engineering, where I discovered my interest in building

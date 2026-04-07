@@ -65,7 +65,6 @@ export const skills = [
 export const projects = [
     {
         title:"Staff Portal Course Managment System",
-        // description: "A web application that allows staff members to manage courses and students. The application is built using React, springBoot, and MySQL.",
         description:" I have hands-on experience developing real-world projects such as a Tiffin Delivery and Management System and a Staff Portal Course Management System. Through these, I gained practical expertise in Spring Security, OAuth 2.1, JWT authentication, API Gateway, and Backend-for-Frontend (BFF) architecture.I enjoy solving complex problems, designing efficient systems, and writing clean, maintainable code while continuously improving my technical skills.",
         tech: ["React", "SpringBoot", "MySQL"],
         image: "src/assets/StaffPortalProjectImage.png",
@@ -75,7 +74,6 @@ export const projects = [
     },
     {
         title: "Tiffin Delivary Management System",
-        // description: "A web application that allows users to order tiffins online. The application is built using React, springBoot, and MySQL.",
         description:" I am a Full-Stack Developer with a strong foundation in Java, Spring Boot, and ReactJS, along with a Post Graduate Diploma in Advanced Computing (CDAC). I specialize in building scalable and secure applications using microservices architecture, RESTful APIs, and modern frontend technologies.",
         tech: ["React", "SpringBoot", "MySQL"],
         image: "src/assets/TiffinDeliveryProjectImage.jpg",
