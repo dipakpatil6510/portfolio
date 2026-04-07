@@ -69,7 +69,7 @@ export const projects = [
         tech: ["React", "SpringBoot", "MySQL"],
         image: "src/assets/StaffPortalProjectImage.png",
         icons:[FaReact, FaServer, FaDatabase],
-        code:"#"
+        code:"https://github.com/dipakpatil6510/StaffPortalCourseManagmentSystem/tree/main/Staff_Portal_Course_Management"
     },
     {
         title: "Tiffin Delivary Management System",
@@ -77,7 +77,7 @@ export const projects = [
         tech: ["React", "SpringBoot", "MySQL"],
         image: "src/assets/TiffinDeliveryProjectImage.jpg",
         icons:[FaReact, FaServer, FaDatabase,FaStripe],
-        code:"#"
+        code:"https://github.com/dipakpatil6510/TiffinDeliveryManagmentSystem/tree/main/Tiffin-Delivery-System"
     }
 ]
 
