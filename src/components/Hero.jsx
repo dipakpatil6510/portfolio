@@ -43,12 +43,16 @@ const Hero = () => {
           </h1>
           <h2 className="text-2xl md:text-4xl font-semibold mb-6">
             {/* Full Stack Developer */}
-            {text} <span className="typewriter"/> {" "}
+            {text} <span className="typewriter" />{" "}
             <span className="border-r-2 border-blue-400 ml-1 animate-pulse"></span>
           </h2>
-          <p className="text-lg md:text-xl mb-8 text-gray-300">
-            A passionate Frontend Developer crafting beautiful and functional
-            web experiences.
+          <p className="text-gray-400 max-w-2xl mx-auto text-stats mb-16">
+            I am a Full-Stack Developer with expertise in Java, Spring Boot, and
+            ReactJS, focused on building scalable, secure, and high-performance
+            applications. I have hands-on experience in microservices
+            architecture, authentication mechanisms like JWT and OAuth 2.1, and
+            designing clean, maintainable systems that solve real-world
+            problems.
           </p>
           <div className="flex space-x-4">
             <a

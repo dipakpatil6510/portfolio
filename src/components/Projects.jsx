@@ -18,7 +18,7 @@ const Projects = () => {
           My <span className="text-blue-400">Projects</span>
         </h2>
         <p className="text-gray-400 max-w-2xl mx-auto text-center mb-16">
-          Here are some of the projects I've worked on. Each project showcases my skills and passion for creating impactful solutions. Feel free to explore and see how I can contribute to your next project!
+          Here are some of the projects I've worked on. Each project showcases my skills and passion for creating impactful solutions.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto ">
           {/* Project Card 1 */}

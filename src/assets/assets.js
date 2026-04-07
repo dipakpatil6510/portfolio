@@ -69,7 +69,6 @@ export const projects = [
         tech: ["React", "SpringBoot", "MySQL"],
         image: "src/assets/StaffPortalProjectImage.png",
         icons:[FaReact, FaServer, FaDatabase],
-        demo:"#",
         code:"#"
     },
     {
@@ -78,7 +77,6 @@ export const projects = [
         tech: ["React", "SpringBoot", "MySQL"],
         image: "src/assets/TiffinDeliveryProjectImage.jpg",
         icons:[FaReact, FaServer, FaDatabase,FaStripe],
-        demo:"#",
         code:"#"
     }
 ]

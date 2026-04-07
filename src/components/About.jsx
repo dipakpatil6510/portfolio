@@ -17,8 +17,8 @@ const About = () => {
           About <span className="text-blue-400">Me</span>
         </h2>
         <p className="text-gray-400 max-w-2xl mx-auto text-center mb-16">
-          I am a passionate frontend developer with experience in creating
-          modern web applications. I enjoy solving complex problems and turning
+          I am a full stack developer with experience in creating
+          modern web applications. I enjoy solving problems and turning
           ideas into reality.
         </p>
 
